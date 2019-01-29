@@ -1,8 +1,4 @@
-# Hello_World
-First Grocery List
-
-
-<h1>My Grocery List</h1>
+<h2>My Grocery List</h2>
 
 <ul>
 	<li>Milk</li>
